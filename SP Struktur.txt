@@ -1,0 +1,6 @@
+SP Administrator = King of Dienste / Konnektoren
+SP Designer = Konsolidierung & Meta-Struktur 
+SP Site Admin = Owner ++ NEUE Dienste / Berechtigung
+SP Site Owner = Struktur / Planung + Berechtigung
+SP Site KeyUser = SP Anwender = Inhalte / Sichten
+SP Site User = SP EndAnwender
